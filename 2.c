@@ -106,3 +106,8 @@ displayCircular(&list);
 printf("Size of Circular Linked List: %d\n", sizeCircular(&list));
 return 0;
 }
+
+OUTPUT:
+CircularLinkedListafteraddingelements:123
+CircularLinkedListafterremovingelement2:13
+SizeofCircularLinkedList:2
